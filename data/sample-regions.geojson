@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "West" }, "geometry": { "type": "Polygon", "coordinates": [[[-125, 24], [-105, 24], [-105, 50], [-125, 50], [-125, 24]]] } },
+    { "type": "Feature", "properties": { "name": "Central" }, "geometry": { "type": "Polygon", "coordinates": [[[-105, 24], [-90, 24], [-90, 50], [-105, 50], [-105, 24]]] } },
+    { "type": "Feature", "properties": { "name": "East" }, "geometry": { "type": "Polygon", "coordinates": [[[-90, 24], [-66, 24], [-66, 50], [-90, 50], [-90, 24]]] } }
+  ]
+}
